@@ -1,6 +1,6 @@
 ![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 
-<h1 align="center">Hi 👋, I'm Felix JOhn </h1>
+<h1 align="center">Hi 👋, I'm Felix John </h1>
 
 <h3 align="center">
  DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
