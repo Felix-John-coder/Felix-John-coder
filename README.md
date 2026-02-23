@@ -42,12 +42,14 @@ My focus is on **scalability, reliability, security, and automation** across the
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
 <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
+
+ ### 🔁 CI/CD & Automation
+
+<img src="https://skillicons.dev/icons?i=githubactions,github" />
+
+
 </p>
 
-### 🔁 CI/CD & Automation
-<p>
-<img src="https://skillicons.dev/icons?i=githubactions,github" />
-</p>
 
 ### 📊 Observability & Monitoring
 <p>
