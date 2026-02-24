@@ -6,7 +6,7 @@
  DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 </h3>
 
-<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+<img align="right" alt="DevOps Automation" width="350" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 ---
 
@@ -40,9 +40,10 @@ My focus is on **scalability, reliability, security, and automation** across the
 ### 🐳 Containers & Orchestration
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
-
+</p>
+### GITOPS
+<p><img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" /></p>
  ### 🔁 CI/CD & Automation
 
 <img src="https://skillicons.dev/icons?i=githubactions,github" />
