@@ -1,97 +1,96 @@
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+#  Hi, I'm Felix
 
-<h1 align="center">Hi 👋, I'm Felix </h1>
+**Cloud & DevOps Engineer | AWS | Kubernetes | CICD | Terraform | GitOps**
 
-<h3 align="center">
- DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
-</h3>
-
-<img align="right" alt="DevOps Automation" width="350" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+I design and operate **production-grade cloud infrastructure**, focusing on **automation, scalability, reliability, and security**.
 
 ---
 
-<h2>👨‍💻 About Me</h2>
+##  Core Expertise
 
-I am a DevOps & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
-My focus is on **scalability, reliability, security, and automation** across the delivery lifecycle.
-
----
-
----
-
-## 🚀 What I Do
-
-- Design and operate Kubernetes platforms EKS for multi-environment workloads
-- Build reusable Terraform modules for AWS 
-- Implement GitOps-based deployments using ArgoCD and Helm
-- Automate CI/CD pipelines for applications and infrastructure
-- Design centralized observability using Prometheus, Grafana, and ELK
-- Integrate DevSecOps practices into delivery workflows
+* Architecting and operating **AWS EKS-based Kubernetes platforms**
+* Building **modular Terraform infrastructure** (VPC, IAM, EKS, RDS)
+* Implementing **GitOps workflows using ArgoCD and Helm**
+* Designing and maintaining **CI/CD pipelines** for applications and infrastructure
+* Implementing **observability stacks** (Prometheus, Grafana, ELK)
+* Applying **DevSecOps practices** (secrets management, vulnerability scanning, policy enforcement)
 
 ---
 
-## 🧰 DevOps Toolchain
+##  Tech Stack
 
-### ☁️ Cloud & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=aws,,terraform" />
-</p>
+**Cloud & Infrastructure**
+AWS • Terraform
 
-### 🐳 Containers & Orchestration
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p>
+**Containers & Orchestration**
+Docker • Kubernetes 
 
-### GITOPS
-<p>
- <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
-</p>
+**GitOps & Deployment**
+Helm • ArgoCD
 
- ### 🔁 CI/CD & Automation
+**CI/CD & Automation**
+GitHub Actions
 
-<img src="https://skillicons.dev/icons?i=githubactions,github" />
+**Observability**
+Prometheus • Grafana • Elasticsearch
 
+**Security**
+AWS-Secret-manager • Trivy • SonarQube
 
-</p>
-
-
-### 📊 Observability & Monitoring
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
-</p>
-
-### 🔐 Security & DevSecOps
-<p>
-<img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
-</p>
-
-### 🗄️ Version Control & Collaboration
-<p>
-<img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-### 🖥️ Scripting & OS
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
-</p>
+**Scripting & OS**
+Python • Bash • Linux
 
 ---
 
-## 🤝 Connect With Me
+##  Highlight Projects
 
-<p align="left">
-  <a href="https://www.threads.com/@felixjohnra?igshid=NTc4MTIwNjQ2YQ==">
-  <img src="https://cdn.simpleicons.org/thread/000000" width="48" height="48" />
-</a>
-<a href="https://www.tiktok.com/@felix_john_ra?_r=1&_t=ZS-944ESDlp8DM"><img src="https://cdn.simpleicons.org/tiktok/000000" width="48" height="48" /></a>
-<a href="https://x.com/felixjohn292024?s=21"><img src="https://cdn.simpleicons.org/twitter/000000" width="48" height="48" /></a>
-<a href="https://www.facebook.com/share/1adeKErYvN/?mibextid=wwXIfr"><img src="https://cdn.simpleicons.org/facebook/000000" width="48" height="48" /></a>
-</p>
+
+### 🔹 Production EKS Platform (Terraform + GitOps)
+
+* Multi-environment Kubernetes platform on AWS
+* GitOps deployment using ArgoCD
+* Ingress with TLS (cert-manager)
+* Autoscaling (HPA + Cluster Autoscaler)
+* Observability with Prometheus & Grafana
 
 ---
 
-📫 Reach me at **aghedofelix13gmail.com**<br>
-⚡ Fun fact: I am an extrovert who enjoys solving real production problems
+### 🔹 Helm-Based Microservices Deployment
+
+* Production-ready Helm charts
+* Configurable values for multi-environment deployments
+* Integrated ingress routing and service discovery
+* Metrics exposure for monitoring
+
+---
+
+### 🔹 CI/CD Pipeline System
+
+* GitHub Actions pipelines for build, test, and deployment
+* Integrated security scanning (Trivy, SonarQube)
+* Automated image build and push
+* GitOps-based deployment trigger
+
+---
+
+##  Architecture Snapshot
+
+* AWS VPC (multi-AZ architecture)
+* Amazon EKS cluster (managed node groups)
+* NGINX Ingress Controller with TLS (cert-manager)
+* ArgoCD for GitOps continuous delivery
+* Prometheus & Grafana for monitoring
+* Centralized logging (ELK stack)
+* External RDS (MYSQL)
+
+---
+
+## 📫 Contact
+
+* Email: **[aghedofelix13@gmail.com](mailto:aghedofelix13@gmail.com)**
+* GitHub: https://github.com/Felix-John-coder
+* Tiktok: https://www.tiktok.com/@felix_john_ra?_r=1&_t=ZS-94mHyQgvTdN
+* Thread: https://www.threads.com/@felixjohnra
+* X: https://x.com/felixjohn292024?s=21
+
+---
