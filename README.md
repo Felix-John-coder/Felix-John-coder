@@ -45,7 +45,7 @@ Python • Bash • Linux
 ##  Highlight Projects
 
 
-### 🔹 Production EKS Platform (Terraform + GitOps)
+###  Production EKS Platform (Terraform + GitOps)
 
 * Multi-environment Kubernetes platform on AWS
 * GitOps deployment using ArgoCD
@@ -55,7 +55,7 @@ Python • Bash • Linux
 
 ---
 
-### 🔹 Helm-Based Microservices Deployment
+###  Helm-Based Microservices Deployment
 
 * Production-ready Helm charts
 * Configurable values for multi-environment deployments
@@ -64,7 +64,7 @@ Python • Bash • Linux
 
 ---
 
-### 🔹 CI/CD Pipeline System
+###  CI/CD Pipeline System
 
 * GitHub Actions pipelines for build, test, and deployment
 * Integrated security scanning (Trivy, SonarQube)
@@ -85,7 +85,7 @@ Python • Bash • Linux
 
 ---
 
-## 📫 Contact
+##  Contact
 
 * Email: **[aghedofelix13@gmail.com](mailto:aghedofelix13@gmail.com)**
 * GitHub: https://github.com/Felix-John-coder
