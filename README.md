@@ -4,7 +4,6 @@
 
 I design and operate **production-grade cloud infrastructure**, focusing on **automation, scalability, reliability, and security**.
 
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-John-coder&show_icons=true&theme=transparent&hide_border=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=Felix-John-coder&color=blue)
 
 ---
