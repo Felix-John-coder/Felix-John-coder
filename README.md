@@ -1,98 +1,48 @@
-#  Hi, I'm Felix
+# Hi, I'm Felix
 
-**Cloud & DevOps Engineer | AWS | Kubernetes | CICD | Terraform | GitOps**
+**Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | GitOps**
 
-I design and operate **production-grade cloud infrastructure**, focusing on **automation, scalability, reliability, and security**.
+I build **production-grade cloud infrastructure** focused on **automation, scalability, reliability, and security**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Felix-John-coder&color=blue)
 
 ---
 
-##  Core Expertise
+## Core Focus
 
-* Architecting and operating **AWS EKS-based Kubernetes platforms**
-* Building **modular Terraform infrastructure** (VPC, IAM, EKS, RDS)
-* Implementing **GitOps workflows using ArgoCD and Helm**
-* Designing and maintaining **CI/CD pipelines** for applications and infrastructure
-* Implementing **observability stacks** (Prometheus, Grafana, ELK)
-* Applying **DevSecOps practices** (secrets management, vulnerability scanning, policy enforcement)
-
----
-
-##  Tech Stack
-
-**Cloud & Infrastructure**
-AWS • Terraform
-
-**Containers & Orchestration**
-Docker • Kubernetes 
-
-**GitOps & Deployment**
-Helm • ArgoCD
-
-**CI/CD & Automation**
-GitHub Actions
-
-**Observability**
-Prometheus • Grafana • Elasticsearch
-
-**Security**
-AWS-Secret-manager • Trivy • SonarQube
-
-**Scripting & OS**
-Python • Bash • Linux
+- AWS Infrastructure & Kubernetes (EKS)
+- Terraform Infrastructure as Code  
+- CI/CD & GitOps (GitHub Actions + ArgoCD)  
+- Observability (Prometheus, Grafana)  
+- DevSecOps & Automation  
 
 ---
 
-##  Highlight Projects
+## Tech Stack
 
-
-###  Production EKS Platform (Terraform + GitOps)
-
-* Multi-environment Kubernetes platform on AWS
-* GitOps deployment using ArgoCD
-* Ingress with TLS (cert-manager)
-* Autoscaling (HPA + Cluster Autoscaler)
-* Observability with Prometheus & Grafana
+**AWS • Kubernetes • Terraform • Docker • GitHub Actions • ArgoCD • Helm • Prometheus • Grafana • Python • Bash • Linux**
 
 ---
 
-###  Helm-Based Microservices Deployment
+## Featured Projects
 
-* Production-ready Helm charts
-* Configurable values for multi-environment deployments
-* Integrated ingress routing and service discovery
-* Metrics exposure for monitoring
+### Production EKS Platform
+Terraform-built AWS infrastructure with GitOps deployment and observability stack
 
----
+### CI/CD + DevSecOps Pipeline
+Automated build, scan, and GitOps deployment workflow
 
-###  CI/CD Pipeline System
+### Helm-Based Microservices Deployment
+Reusable Helm charts for scalable Kubernetes deployments
 
-* GitHub Actions pipelines for build, test, and deployment
-* Integrated security scanning (Trivy, SonarQube)
-* Automated image build and push
-* GitOps-based deployment trigger
+ **Check pinned repositories below for full implementations**
 
 ---
 
-##  Architecture Snapshot
+## Contact
 
-* AWS VPC (multi-AZ architecture)
-* Amazon EKS cluster (managed node groups)
-* NGINX Ingress Controller with TLS (cert-manager)
-* ArgoCD for GitOps continuous delivery
-* Prometheus & Grafana for monitoring
-* Centralized logging (ELK stack)
-* External RDS (MYSQL)
-
----
-
-##  Contact
-
-* Email: **[aghedofelix13@gmail.com](mailto:aghedofelix13@gmail.com)**
-* GitHub: https://github.com/Felix-John-coder
-* Tiktok: https://www.tiktok.com/@felix_john_ra?_r=1&_t=ZS-94mHyQgvTdN
-* Thread: https://www.threads.com/@felixjohnra
-* X: https://x.com/felixjohn292024?s=21
-
----
+- Email: **aghedofelix13@gmail.com**
+- GitHub: https://github.com/Felix-John-coder
+- X: https://x.com/felixjohn292024
+- Threads: https://www.threads.com/@felixjohnra
+- TikTok: https://www.tiktok.com/@felix_john_ra
